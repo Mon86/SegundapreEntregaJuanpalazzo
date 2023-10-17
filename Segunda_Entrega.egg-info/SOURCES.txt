@@ -1,0 +1,7 @@
+setup.py
+Python/ModuloCarrito.py
+Python/ModuloCliente.py
+Segunda_Entrega.egg-info/PKG-INFO
+Segunda_Entrega.egg-info/SOURCES.txt
+Segunda_Entrega.egg-info/dependency_links.txt
+Segunda_Entrega.egg-info/top_level.txt
